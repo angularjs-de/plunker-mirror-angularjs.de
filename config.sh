@@ -1,2 +1,2 @@
 # PATH FOR URL REPLACEMENTS
-BASE_PATH="plunker-mirror-angularjs.de/"
+BASE_PATH="angularjs.de-plunker-mirror"
